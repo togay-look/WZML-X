@@ -39,7 +39,7 @@ tenacity>=9.0.0
 tgcrypto>=1.2.5
 uvloop>=0.21.0
 xattr>=1.1.4
-yt-dlp>=2023.10.07
+yt-dlp==2023.10.07
 pyrofork==2.2.11
-pymediainfo>=6.1.0
+pymediainfo==6.0.1
 setuptools>=61.0.0
